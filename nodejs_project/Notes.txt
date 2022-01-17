@@ -1,0 +1,9 @@
+Le 07/02/2021 :
+https://blog.ineat-group.com/2019/11/creer-une-api-node-js-et-la-securiser-avec-keycloak/
+
+
+---------------------------------
+
+
+Once the docker image is up, we can import our realm config from "realm-export.json"
+

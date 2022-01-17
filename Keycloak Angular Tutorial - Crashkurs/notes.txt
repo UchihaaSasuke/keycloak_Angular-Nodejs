@@ -1,0 +1,23 @@
+Le 07/02/2021:
+
+Link : 
+https://youtu.be/PwyI3kXr_IM
+
+Tutorial Source Code :
+https://github.com/GennadiStammn/angular-keycloak-tutorial
+
+---------------------
+Angular Installation :
+https://www.npmjs.com/package/keycloak-angular
+
+
+
+---------------------
+Once the docker image is up, we can import our realm config from "realm-export.json"
+---------------------
+
+http://localhost:8080/auth/realms/my-demo-realm/account/#/
+
+User :
+Username : my-demo-user
+Pwd : keycloak
